@@ -1,3 +1,3 @@
 # Jesvid-VRC-Avatar-Chair
 
-VRChat avatar chair for avatares sdk2
+VRChat avatar chair for avatares sdk3
